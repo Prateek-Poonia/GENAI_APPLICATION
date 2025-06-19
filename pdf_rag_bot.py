@@ -5,7 +5,7 @@ import requests
 import streamlit as st
 
 
-EURI_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhNjk1YzBmMS0xMzZkLTQwNzgtYjY3Ni02MWIwMzM5YzU5YTkiLCJlbWFpbCI6Im1haGFrYWwxMjMzMjFAZ21haWwuY29tIiwiaWF0IjoxNzQ5OTc0MzEzLCJleHAiOjE3ODE1MTAzMTN9.v_2pG4B35DubVe5P2EgAdyKwMDokxhSf3xAme-mMuwA"
+EURI_API_KEY="your api key"
 EURI_CHAT_URL="https://api.euron.one/api/v1/euri/alpha/chat/completions"
 
 EURI_EMBED_URL="https://api.euron.one/api/v1/euri/alpha/embeddings"
